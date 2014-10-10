@@ -1,0 +1,4 @@
+myrepository-
+=============
+
+my resource
